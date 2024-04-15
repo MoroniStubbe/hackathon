@@ -1,8 +1,8 @@
-body{
+body {
     background-color: black;
     color: white;
 
-    nav{
+    nav {
         width: 30vw;
         margin: 10vh auto;
         border: solid 1px white;
@@ -10,13 +10,20 @@ body{
         text-align: center;
         font-size: 5vh;
 
-        a{
+        a {
             color: white;
         }
     }
 
-    main{
+    main {
         width: 60vw;
         margin: 10vh auto;
+
+        span{
+            display: inline-block;
+            width: 0.6vw;
+        }
     }
+}::-webkit-scrollbar{
+    display: none;
 }
