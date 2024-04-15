@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+}
+body nav {
+  width: 30vw;
+  margin: 10vh auto;
+  border: solid 1px white;
+  padding: 5vh 5vw;
+  text-align: center;
+  font-size: 5vh;
+}
+body nav a {
+  color: white;
+}
+body main {
+  width: 60vw;
+  margin: 10vh auto;
+}/*# sourceMappingURL=flashlight.css.map */
