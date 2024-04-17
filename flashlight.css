@@ -16,4 +16,7 @@ body nav a {
 body main {
   width: 60vw;
   margin: 10vh auto;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
 }/*# sourceMappingURL=flashlight.css.map */
