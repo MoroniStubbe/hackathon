@@ -16,4 +16,12 @@ body nav a {
 body main {
   width: 60vw;
   margin: 10vh auto;
+}
+body main span {
+  display: inline-block;
+  width: 0.6vw;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }/*# sourceMappingURL=flashlight.css.map */
